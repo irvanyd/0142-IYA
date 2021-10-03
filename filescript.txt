@@ -1,0 +1,8 @@
+percobaan untuk melakukan pull dan push di git dan github:
+1. bukalah terminal atau command prompt
+2. membuat direktori: 0142-IYA
+3. melakukan git init
+4. coba membuat file .txt
+5. melakukan git add
+6. melakukan git commit -m "belajar commit"
+7. git remote add origin master....
